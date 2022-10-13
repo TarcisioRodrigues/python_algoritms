@@ -8,3 +8,6 @@ for i in range(10):
    vazia[i]=lista[i]-lista2[i]
 
 print(vazia)
+
+
+
